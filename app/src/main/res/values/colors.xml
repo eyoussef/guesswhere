@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pre-Compose window color, matches ui/theme Color.kt surface -->
+    <color name="window_bg">#0B0F12</color>
+    <color name="launcher_bg">#10181C</color>
+</resources>
