@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launcher_bg">#10181C</color>
+    <color name="window_bg">#0B0F12</color>
+    <string name="about">About</string>
+    <string name="about_body">Guess Where! shows photographs from Wikimedia Commons, the free media repository. Every image is free to use under its own license; the photographer and license are always shown on screen. Map tiles come from OpenStreetMap contributors. Scores are stored only on this device. This app is not affiliated with the Wikimedia Foundation.</string>
+    <string name="about_scoring_body">Each round starts with %1$d points that decay exponentially with distance: score = %1$d × e^(−km ÷ %2$.0f) on this difficulty. Within a few kilometers you get the full amount.</string>
+    <string name="about_scoring_title">Scoring</string>
+    <string name="about_title">About</string>
+    <string name="app_name">Guess Where!</string>
+    <string name="back">Back</string>
+    <string name="confirm_guess">Confirm guess</string>
+    <string name="crown_badge">Personal best</string>
+    <string name="daily_card_body">Five fresh rounds, one a day. Everyone plays the same mode.</string>
+    <string name="daily_card_title">Daily Mix</string>
+    <string name="daily_play">Play daily</string>
+    <string name="data_credit">Photos: Wikimedia Commons, free-licensed. Map: © OpenStreetMap contributors.</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="error_generic">Something went wrong: %1$s</string>
+    <string name="error_no_images">Could not load suitable photos. Check your connection and try again.</string>
+    <string name="game_over_title">Game over</string>
+    <string name="give_up">Quit game</string>
+    <string name="go_home">Back to menu</string>
+    <string name="home_subtitle">World photo guessing game on Wikimedia Commons imagery</string>
+    <string name="home_title">Guess Where!</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="leaderboard_clear">Clear scores</string>
+    <string name="leaderboard_clear_confirm">Delete all saved scores?</string>
+    <string name="leaderboard_empty">No games yet. Play a few rounds first.</string>
+    <string name="leaderboard_row_uses">%1$s · %2$d rounds</string>
+    <string name="leaderboard_title">Top games</string>
+    <string name="loading_round">Fetching photo locations…</string>
+    <string name="map_credit">Map data © OpenStreetMap contributors</string>
+    <string name="ok">OK</string>
+    <string name="personal_best">New personal best</string>
+    <string name="photo_by">Photo by %1$s, %2$s</string>
+    <string name="pick_difficulty">Difficulty</string>
+    <string name="pick_pack">Photo pack</string>
+    <string name="place_pin_hint">Tap the map to drop your pin</string>
+    <string name="play">Play</string>
+    <string name="play_again">Play again</string>
+    <string name="quit_game_body">Quit this game? The current progress will not be saved.</string>
+    <string name="result_distance_km">%1$s km off</string>
+    <string name="result_next">Next round</string>
+    <string name="result_reveal_title">The photo was taken here</string>
+    <string name="result_skipped">Round skipped</string>
+    <string name="retry">Try again</string>
+    <string name="round_of">Round %1$d of %2$d</string>
+    <string name="round_row_distance">%1$s km</string>
+    <string name="round_row_points">%1$s pts</string>
+    <string name="round_row_skipped">skipped</string>
+    <string name="round_score">Score %1$s</string>
+    <string name="rules_hint">Tap the map to drop a pin. You score up to %1$d points per round, closer is better.</string>
+    <string name="share_score">Share score</string>
+    <string name="share_text">Guess Where! score: %1$s points across %2$d rounds. Can you beat it?</string>
+    <string name="skip_round">Skip round</string>
+    <style name="Theme.GuessWhere" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/window_bg</item>
+        <item name="android:statusBarColor">@color/window_bg</item>
+        <item name="android:navigationBarColor">@color/window_bg</item>
+    </style>
+</resources>

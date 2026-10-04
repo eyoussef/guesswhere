@@ -1,0 +1,8 @@
+com.guesswhere.app-pngs-0 /tmp/guesswhere/app/build/generated/res/pngs/debug
+com.guesswhere.app-updated_navigation_xml-1 /tmp/guesswhere/app/build/generated/updated_navigation_xml/debug
+com.guesswhere.app-packageDebugResources-2 /tmp/guesswhere/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.guesswhere.app-packageDebugResources-3 /tmp/guesswhere/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.guesswhere.app-debug-4 /tmp/guesswhere/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.guesswhere.app-debug-5 /tmp/guesswhere/app/src/debug/res
+com.guesswhere.app-main-6 /tmp/guesswhere/app/src/main/res
+gradleHome-0 /root/.gradle

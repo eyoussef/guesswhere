@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.guesswhere.app-mergeReleaseResources-41:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/tmp/guesswhere/app/src/main/res/values-v31/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "535"
+                    }
+                }
+            ]
+        }
+    ]
+}

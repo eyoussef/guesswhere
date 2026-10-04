@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.guesswhere.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.guesswhere.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.guesswhere.app-debug-44:/drawable_pin_guess.xml.flat",
+        "source": "com.guesswhere.app-main-46:/drawable/pin_guess.xml"
+    },
+    {
+        "merged": "com.guesswhere.app-debug-44:/drawable_ic_crown.xml.flat",
+        "source": "com.guesswhere.app-main-46:/drawable/ic_crown.xml"
+    },
+    {
+        "merged": "com.guesswhere.app-debug-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.guesswhere.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.guesswhere.app-debug-44:/drawable_pin_target.xml.flat",
+        "source": "com.guesswhere.app-main-46:/drawable/pin_target.xml"
+    },
+    {
+        "merged": "com.guesswhere.app-debug-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.guesswhere.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
