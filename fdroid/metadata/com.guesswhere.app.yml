@@ -32,7 +32,7 @@ CurrentVersionCode: 1
 Builds:
   - versionName: 1.0.0
     versionCode: 1
-    commit: c847553c39b526dec288c4dc0cad63c80b9b92f0
+    commit: b6b2e6b235807783aabe90388181c46b2a8f594d
     subdir: app
     gradle:
       - yes
