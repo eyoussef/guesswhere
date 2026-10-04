@@ -1,0 +1,9 @@
+First release.
+
+- 5-round photo guessing game on Wikimedia Commons imagery
+- Packs: Whole world (random), Coasts, Mountains, Cities
+- Daily Mix with date-seeded rounds
+- Exponential scoring with Easy/Normal/Hard decay
+- Reveal map with your pin vs true location, photographer credit, license
+- Local leaderboard, personal best, share your score
+- OpenStreetMap tiles with offline cache (osmdroid)

@@ -1,0 +1,18 @@
+Photo geography game with open imagery
+
+Guess Where! shows photographs from Wikimedia Commons, the free media
+repository, and challenges you to guess where each one was taken. Five
+rounds, up to 5000 points each: tap the world map to drop your pin, and
+your score decays the farther you are from the real location.
+
+- Photo packs: Whole world (random), Coasts and oceans, Mountains, Cities
+- Daily Mix: day-seeded rounds with a stable mode each day
+- Post-guess debrief: photographer credit, license, and file description
+- Difficulty settings change how fast the score decays with distance
+- Local leaderboard, personal-best tracking, and score sharing
+- Fully offline-friendly map tiles (OpenStreetMap data via osmdroid)
+
+No accounts, no tracking, no ads. Scores and seen-image memory stay on
+the device. Not affiliated with the Wikimedia Foundation. Photos are
+shown under their own free licenses with visible credit; map data is
+© OpenStreetMap contributors.

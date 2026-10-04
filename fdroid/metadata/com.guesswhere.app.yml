@@ -1,0 +1,38 @@
+Categories:
+  - Games
+License: GPL-3.0-only
+AuthorName: eyoussef1
+AuthorEmail: eyoussef@users.noreply.github.com
+SourceCode: https://github.com/eyoussef/guesswhere
+IssueTracker: https://github.com/eyoussef/guesswhere/issues
+Changelog: https://github.com/eyoussef/guesswhere/releases
+Donate: https://github.com/eyoussef
+Repo: https://github.com/eyoussef/guesswhere.git
+RepoType: git
+Summary: Guess where photos come from, with Wikimedia Commons imagery
+Description: |-
+    Guess Where! shows photographs from Wikimedia Commons, the free media
+    repository, and challenges you to guess where each one was taken. Five
+    rounds, up to 5000 points each: tap the world map to drop your pin, and
+    your score decays the farther you are from the real location.
+
+    Photo packs: Whole world (random), Coasts and oceans, Mountains, Cities.
+    Daily Mix gives day-seeded rounds. After every guess you see the reveal
+    map, the photographer credit, the license and the file description.
+
+    No accounts, no tracking, no ads. Scores and seen-image memory stay on
+    the device. Map tiles use OpenStreetMap data via osmdroid with an
+    offline cache. Not affiliated with the Wikimedia Foundation.
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags
+VercodeOperation: '%c'
+CurrentVersion: '1.0.0'
+CurrentVersionCode: 1
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: c847553c39b526dec288c4dc0cad63c80b9b92f0
+    subdir: app
+    gradle:
+      - yes
